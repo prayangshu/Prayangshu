@@ -10,33 +10,33 @@
 
 ---
 
-## 🛠️ My Tech Toolbox & Skill Levels
+## 🛠️ My Skills:
 
 ### 🖥️ **Programming Languages**:
-- 🐍 **Python** ![Python](https://progress-bar.dev/93)  
-- 💻 **C++** ![C++](https://progress-bar.dev/75)  
-- ☕ **Java** ![Java](https://progress-bar.dev/55)  
-- 💎 **Ruby** ![Ruby](https://progress-bar.dev/50)  
-- 💻 **PHP** ![PHP](https://progress-bar.dev/73)  
-- ⚙️ **JavaScript** ![JavaScript](https://progress-bar.dev/90)
+- 🐍 **Python**
+- 💻 **C++**
+- ☕ **Java**
+- 💎 **Ruby**
+- 💻 **PHP**
+- ⚙️ **JavaScript**
 
 ### 🌐 **Frameworks & Libraries**:
-- 🌍 **Django** ![Django](https://progress-bar.dev/93)  
-- 🟢 **Node.js** ![Node.js](https://progress-bar.dev/90)  
-- 🚀 **Express.js** ![Express.js](https://progress-bar.dev/90)
+- 🌍 **Django**
+- 🟢 **Node.js**
+- 🚀 **Express.js**
 
 ### 🎨 **Frontend Technologies**:
-- 🖌️ **HTML5** ![HTML5](https://progress-bar.dev/90)  
-- 🎨 **CSS3** ![CSS3](https://progress-bar.dev/90)  
-- ⚡ **JavaScript** ![JavaScript](https://progress-bar.dev/90)  
-- 💎 **Bootstrap** ![Bootstrap](https://progress-bar.dev/93)
+- 🖌️ **HTML5**
+- 🎨 **CSS3**
+- ⚡ **JavaScript**
+- 💎 **Bootstrap**
 
 ### 🗃️ **Databases**:
-- 🛢️ **MySQL** ![MySQL](https://progress-bar.dev/75)  
-- 🗄️ **SQLite3** ![SQLite3](https://progress-bar.dev/75)  
+- 🛢️ **MySQL**
+- 🗄️ **SQLite3**
 
 ### 🔧 **CMS**:
-- 📄 **WordPress** ![WordPress](https://progress-bar.dev/100)
+- 📄 **WordPress**
 
 ---
 
